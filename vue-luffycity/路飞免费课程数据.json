@@ -1,0 +1,715 @@
+{
+  "error_no": 0,
+  "data": [
+    {
+      "id": 5,
+      "name": "Python开发21天入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/5/21天_1544059695.5584881.jpeg",
+      "numbers": 154,
+      "learn_number": 10631,
+      "teacher_description": "Alex 金角大王 老男孩Python教育总监",
+      "free_sections": [
+        {
+          "id": 359,
+          "name": "常用模块学习-模块的种类和导入方法",
+          "free_trail": true
+        },
+        {
+          "id": 7,
+          "name": "编程语言介绍（三）高级语言",
+          "free_trail": true
+        },
+        {
+          "id": 5,
+          "name": "编程语言介绍（一）",
+          "free_trail": true
+        },
+        {
+          "id": 2,
+          "name": "课程介绍（二）-Python与其他语言的区别",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 154,
+      "has_price": true,
+      "price": "9.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时免费",
+      "promotion_price": "0.00"
+    },
+    {
+      "id": 12,
+      "name": "Linux系统基础5周入门精讲",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/12/Linux_1544069008.0915537.jpeg",
+      "numbers": 148,
+      "learn_number": 5676,
+      "teacher_description": "李泳谊 老男孩LInux学科带头人",
+      "free_sections": [
+        {
+          "id": 53,
+          "name": "服务器头部介绍",
+          "free_trail": true
+        },
+        {
+          "id": 59,
+          "name": "第一章总结",
+          "free_trail": true
+        },
+        {
+          "id": 50,
+          "name": "服务器硬件-详解",
+          "free_trail": true
+        },
+        {
+          "id": 58,
+          "name": "服务器核心硬件-raid卡-光驱-云服务器",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 147,
+      "has_price": true,
+      "price": "29.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时免费",
+      "promotion_price": "0.00"
+    },
+    {
+      "id": 3,
+      "name": "Django入门与实践",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/3/Django_1544068307.6181812.jpeg",
+      "numbers": 58,
+      "learn_number": 2236,
+      "teacher_description": "Alex 金角大王 老男孩Python教育总监",
+      "free_sections": [
+        {
+          "id": 2596,
+          "name": "01-Django介绍",
+          "free_trail": true
+        },
+        {
+          "id": 2597,
+          "name": "02-Http协议介绍",
+          "free_trail": true
+        },
+        {
+          "id": 2598,
+          "name": "03-Http协议本质是基于Socket实现的",
+          "free_trail": true
+        },
+        {
+          "id": 2609,
+          "name": "14-MVC&MTV架构",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 58,
+      "has_price": true,
+      "price": "100.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "1.00"
+    },
+    {
+      "id": 39,
+      "name": "Pycharm使用秘籍",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/39/pycharm_1544069811.5178533.jpeg",
+      "numbers": 1,
+      "learn_number": 829,
+      "teacher_description": "李文周 前搜狗资深工程师",
+      "free_sections": [
+        {
+          "id": 2814,
+          "name": "Pycharm使用秘籍视频课程",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 1,
+      "has_price": true,
+      "price": "9.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时免费",
+      "promotion_price": "0.00"
+    },
+    {
+      "id": 38,
+      "name": "Windows下双版本Python环境安装",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/38/windows_1544069537.1358519.jpeg",
+      "numbers": 1,
+      "learn_number": 331,
+      "teacher_description": "李文周 前搜狗资深工程师",
+      "free_sections": [
+        {
+          "id": 2859,
+          "name": "Windows下双版本Python环境安装",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 1,
+      "has_price": true,
+      "price": "9.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时免费",
+      "promotion_price": "0.00"
+    },
+    {
+      "id": 42,
+      "name": "Github入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/42/git-pc列表_1544420927.8406003.jpeg",
+      "numbers": 27,
+      "learn_number": 910,
+      "teacher_description": "武Sir 银角大王 前汽车之家 好大夫资深工程师",
+      "free_sections": [
+        {
+          "id": 2835,
+          "name": "4-内容回顾之编程思想",
+          "free_trail": true
+        },
+        {
+          "id": 2832,
+          "name": "1-今日内容概要",
+          "free_trail": true
+        },
+        {
+          "id": 2836,
+          "name": "5-内容回顾之版本补充",
+          "free_trail": true
+        },
+        {
+          "id": 2833,
+          "name": "2-内容回顾之rest api",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 27,
+      "has_price": true,
+      "price": "10.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "0.10"
+    },
+    {
+      "id": 7,
+      "name": "金融量化分析入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/7/金融_1544067126.7320983.jpeg",
+      "numbers": 69,
+      "learn_number": 1071,
+      "teacher_description": "赵博士 清华大学计算机博士",
+      "free_sections": [
+        {
+          "id": 31,
+          "name": "股票基本知识和股票分类",
+          "free_trail": true
+        },
+        {
+          "id": 30,
+          "name": "基本金融知识介绍",
+          "free_trail": true
+        },
+        {
+          "id": 354,
+          "name": "DataFrame常用属性",
+          "free_trail": false
+        },
+        {
+          "id": 676,
+          "name": "plot函数周边",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 69,
+      "has_price": true,
+      "price": "399.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "299.25"
+    },
+    {
+      "id": 46,
+      "name": "类Zabbix的主机监控系统开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/46/Zabbiix-pc列表_1544431586.4417293.jpeg",
+      "numbers": 25,
+      "learn_number": 581,
+      "teacher_description": "Alex 金角大王 老男孩Python教育总监",
+      "free_sections": [
+        {
+          "id": 3085,
+          "name": "01-分布式监控开发实战-监控需求讨论",
+          "free_trail": true
+        },
+        {
+          "id": 3090,
+          "name": "06-分布式监控开发实战-午后鸡汤讲硅谷",
+          "free_trail": true
+        },
+        {
+          "id": 3091,
+          "name": "07-分布式监控开发实战-午后鸡汤讲硅谷2",
+          "free_trail": true
+        },
+        {
+          "id": 3086,
+          "name": "02-分布式监控开发实战-监控需求讨论2",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 25,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "49.50"
+    },
+    {
+      "id": 6,
+      "name": "BBS论坛&Web 聊天室项目开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/6/BBS_1544070960.0138593.jpeg",
+      "numbers": 31,
+      "learn_number": 424,
+      "teacher_description": "Alex 金角大王 老男孩Python教育总监",
+      "free_sections": [
+        {
+          "id": 2803,
+          "name": "03-BBS创建新贴页面开发",
+          "free_trail": true
+        },
+        {
+          "id": 2805,
+          "name": "05-BBS实现页面新消息自动提醒",
+          "free_trail": true
+        },
+        {
+          "id": 4259,
+          "name": "01 项目实战之BBS开发介绍",
+          "free_trail": true
+        },
+        {
+          "id": 2804,
+          "name": "04-BBS实现文件上传",
+          "free_trail": true
+        }
+      ],
+      "complete_numbers": 31,
+      "has_price": true,
+      "price": "100.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "69.00"
+    },
+    {
+      "id": 2,
+      "name": "CRM客户关系管理系统实战开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/2/CRM_1544071588.7508512.jpeg",
+      "numbers": 113,
+      "learn_number": 243,
+      "teacher_description": "武Sir 银角大王 前汽车之家 好大夫资深工程师",
+      "free_sections": [
+        {
+          "id": 4148,
+          "name": "内容回顾之django",
+          "free_trail": true
+        },
+        {
+          "id": 4146,
+          "name": "内容概要",
+          "free_trail": true
+        },
+        {
+          "id": 4147,
+          "name": "内容回顾之面向对象",
+          "free_trail": true
+        },
+        {
+          "id": 4239,
+          "name": "crm之统一URL别名（含前缀）",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 113,
+      "has_price": true,
+      "price": "299.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "251.16"
+    },
+    {
+      "id": 9,
+      "name": "爬虫从入门到进阶",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/9/爬虫_1544073146.400246.jpeg",
+      "numbers": 65,
+      "learn_number": 673,
+      "teacher_description": "波波 前百度数据挖掘工程师",
+      "free_sections": [
+        {
+          "id": 5812,
+          "name": "第1节：爬虫介绍",
+          "free_trail": true
+        },
+        {
+          "id": 5813,
+          "name": "第1节：jupyter notebook安装介绍",
+          "free_trail": true
+        },
+        {
+          "id": 6515,
+          "name": "requests模块带参get请求方式2",
+          "free_trail": false
+        },
+        {
+          "id": 6553,
+          "name": "CrawlSpider_02",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 65,
+      "has_price": true,
+      "price": "199.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "99.50"
+    },
+    {
+      "id": 10,
+      "name": "算法入门",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/10/算法_1544008640.4908097.jpeg",
+      "numbers": 97,
+      "learn_number": 833,
+      "teacher_description": "赵博士 清华大学计算机博士",
+      "free_sections": [
+        {
+          "id": 285,
+          "name": "估计算法运行效率与时间复杂度",
+          "free_trail": true
+        },
+        {
+          "id": 284,
+          "name": "算法入门概念",
+          "free_trail": true
+        },
+        {
+          "id": 4315,
+          "name": "钢条切割问题：自底向上实现",
+          "free_trail": false
+        },
+        {
+          "id": 288,
+          "name": "递归",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 98,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "79.20"
+    },
+    {
+      "id": 41,
+      "name": "14天搞定Flask Web框架开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/41/Flaskweb_1544070689.8698378.jpeg",
+      "numbers": 103,
+      "learn_number": 543,
+      "teacher_description": "武Sir 银角大王 前汽车之家 好大夫资深工程师",
+      "free_sections": [
+        {
+          "id": 3169,
+          "name": "01-内容概要",
+          "free_trail": true
+        },
+        {
+          "id": 3268,
+          "name": "11-flask多app应用",
+          "free_trail": false
+        },
+        {
+          "id": 3175,
+          "name": "07-Flask框架简介和快速使用",
+          "free_trail": false
+        },
+        {
+          "id": 3195,
+          "name": "17-Flask框架之before_reqeust和after_request（二）",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 103,
+      "has_price": true,
+      "price": "79.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "79.00"
+    },
+    {
+      "id": 43,
+      "name": "千台服务器管理系统开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/43/服务器_1544072761.7344625.jpeg",
+      "numbers": 34,
+      "learn_number": 189,
+      "teacher_description": "Alex 金角大王 老男孩Python教育总监",
+      "free_sections": [
+        {
+          "id": 2976,
+          "name": "01-cmdb api安全认证",
+          "free_trail": true
+        },
+        {
+          "id": 2977,
+          "name": "02-restful api",
+          "free_trail": true
+        },
+        {
+          "id": 2979,
+          "name": "04-api设计2",
+          "free_trail": false
+        },
+        {
+          "id": 3119,
+          "name": "08-抓取原生ssh操作记录",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 34,
+      "has_price": true,
+      "price": "69.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "69.00"
+    },
+    {
+      "id": 68,
+      "name": "IT大咖老男孩吐血分享高薪的秘诀",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/68/思想_1544070384.6972747.jpeg",
+      "numbers": 11,
+      "learn_number": 410,
+      "teacher_description": "老男孩 北京老男孩IT教育创始人",
+      "free_sections": [
+        {
+          "id": 4460,
+          "name": "提升自己的六大途径",
+          "free_trail": true
+        },
+        {
+          "id": 4461,
+          "name": "思考的四个层次",
+          "free_trail": true
+        },
+        {
+          "id": 4463,
+          "name": "如何当领导",
+          "free_trail": false
+        },
+        {
+          "id": 4464,
+          "name": "关注成长的重要性",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 11,
+      "has_price": true,
+      "price": "29.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "29.00"
+    },
+    {
+      "id": 45,
+      "name": "运维自动的基石项目－CMDB开发",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/45/CMDB_1544071233.4441462.jpeg",
+      "numbers": 28,
+      "learn_number": 255,
+      "teacher_description": "Alex 金角大王 老男孩Python教育总监",
+      "free_sections": [
+        {
+          "id": 3009,
+          "name": "03-CMDB需求讨论",
+          "free_trail": true
+        },
+        {
+          "id": 3007,
+          "name": "01-ITIL介绍",
+          "free_trail": true
+        },
+        {
+          "id": 3008,
+          "name": "02-CMDB介绍",
+          "free_trail": true
+        },
+        {
+          "id": 3020,
+          "name": "06-数据正式存入待存区",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 28,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "99.00"
+    },
+    {
+      "id": 4,
+      "name": "Mysql数据库从入门至进阶",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/4/MySQl_1544071967.945016.jpeg",
+      "numbers": 49,
+      "learn_number": 293,
+      "teacher_description": "林海峰 上市公司前云计算技术负责人",
+      "free_sections": [
+        {
+          "id": 3330,
+          "name": "02-MySQL简单介绍",
+          "free_trail": true
+        },
+        {
+          "id": 3329,
+          "name": "01-MySQL-开篇",
+          "free_trail": true
+        },
+        {
+          "id": 3341,
+          "name": "13-日期类型",
+          "free_trail": false
+        },
+        {
+          "id": 3339,
+          "name": "11-表的增删改查",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 49,
+      "has_price": true,
+      "price": "79.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "79.00"
+    },
+    {
+      "id": 11,
+      "name": "网络编程入门&FTP服务开发实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/11/ftp_1544070135.9399443.jpeg",
+      "numbers": 36,
+      "learn_number": 328,
+      "teacher_description": "林海峰 上市公司前云计算技术负责人",
+      "free_sections": [
+        {
+          "id": 913,
+          "name": "计算机基础",
+          "free_trail": true
+        },
+        {
+          "id": 914,
+          "name": "什么是网络",
+          "free_trail": true
+        },
+        {
+          "id": 915,
+          "name": "五层协议详解",
+          "free_trail": false
+        },
+        {
+          "id": 931,
+          "name": "文件传输功能-面向对象版",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 36,
+      "has_price": true,
+      "price": "99.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "99.00"
+    },
+    {
+      "id": 69,
+      "name": "Go编程33天从入门到放弃系列",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/69/go-pc列表_1544769100.1675076.jpeg",
+      "numbers": 200,
+      "learn_number": 431,
+      "teacher_description": "少林 前百度、小米架构师",
+      "free_sections": [
+        {
+          "id": 6013,
+          "name": "Go发展历史",
+          "free_trail": true
+        },
+        {
+          "id": 6012,
+          "name": "Golang课程介绍",
+          "free_trail": true
+        },
+        {
+          "id": 6118,
+          "name": "命令行参数处理",
+          "free_trail": false
+        },
+        {
+          "id": 6147,
+          "name": "delve调式介绍和使用",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 168,
+      "has_price": true,
+      "price": "699.00",
+      "valid_period": 10000,
+      "is_promotion": true,
+      "promotion_name": "限时折扣",
+      "promotion_price": "300.57"
+    },
+    {
+      "id": 23,
+      "name": "Python数据分析与机器学习实战",
+      "course_img": "//hcdn1.luffycity.com/static/frontend/course/23/机器_1544010748.895914.jpeg",
+      "numbers": 180,
+      "learn_number": 841,
+      "teacher_description": "唐宇迪 深度学习领域一线实战专家",
+      "free_sections": [
+        {
+          "id": 423,
+          "name": "AI时代首选Python",
+          "free_trail": true
+        },
+        {
+          "id": 424,
+          "name": "Python我该怎么学",
+          "free_trail": true
+        },
+        {
+          "id": 425,
+          "name": "人工智能的核心-机器学习",
+          "free_trail": true
+        },
+        {
+          "id": 495,
+          "name": "决策树剪枝策略",
+          "free_trail": false
+        }
+      ],
+      "complete_numbers": 180,
+      "has_price": true,
+      "price": "499.00",
+      "valid_period": 10000,
+      "is_promotion": false,
+      "promotion_name": null,
+      "promotion_price": "499.00"
+    }
+  ]
+}
